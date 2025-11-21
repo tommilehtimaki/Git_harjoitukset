@@ -1,1 +1,1 @@
-Täällä on Verkkosivujen kehittäminen työpaja hakemistot.
+WS04 työpajakansio
